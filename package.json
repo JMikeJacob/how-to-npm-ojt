@@ -1,0 +1,23 @@
+{
+  "name": "@jmikejacob/how-to-npm",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "author": "",
+  "license": "ISC",
+  "description": "I am Groot.",
+  "dependencies": {
+    "@linclark/pkg": "^1.0.2"
+  },
+  "devDependencies": {},
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/JMikeJacob/how-to-npm-ojt.git"
+  },
+  "bugs": {
+    "url": "https://github.com/JMikeJacob/how-to-npm-ojt/issues"
+  },
+  "homepage": "https://github.com/JMikeJacob/how-to-npm-ojt#readme"
+}
